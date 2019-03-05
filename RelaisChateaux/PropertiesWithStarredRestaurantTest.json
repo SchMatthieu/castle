@@ -5,7 +5,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Guillaume Royer",
 		"Ratings": "4.5",
-		"Price": "255.13",
+		"Price": "225.00",
 		"Link": "https://www.relaischateaux.com/us/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
 	},
 	{
@@ -14,7 +14,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Mathieu Guibert",
 		"Ratings": "4.5",
-		"Price": "82.21",
+		"Price": "72.50",
 		"Link": "https://www.relaischateaux.com/us/france/annedebretagne-loire-atlantique-la-plaine-sur-mer"
 	},
 	{
@@ -23,7 +23,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Arnaud Lallement",
 		"Ratings": "4.5",
-		"Price": "210.34",
+		"Price": "185.50",
 		"Link": "https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux"
 	},
 	{
@@ -32,7 +32,7 @@
 		"Type": "Restaurant",
 		"Chef": "Jean-Christophe Ansanay-Alex",
 		"Ratings": "N/A",
-		"Price": "56.70",
+		"Price": "50.00",
 		"Link": "https://www.relaischateaux.com/us/france/aubergedelile-rhone-lyon"
 	},
 	{
@@ -50,7 +50,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Martin Simonart",
 		"Ratings": "N/A",
-		"Price": "123.60",
+		"Price": "109.00",
 		"Link": "https://www.relaischateaux.com/us/france/templiers-loiret-boismorand"
 	},
 	{
@@ -59,7 +59,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Julien Lucas",
 		"Ratings": "4.5",
-		"Price": "298.79",
+		"Price": "263.50",
 		"Link": "https://www.relaischateaux.com/us/france/jeudepaume-oise-chantilly"
 	},
 	{
@@ -68,7 +68,7 @@
 		"Type": "Restaurant",
 		"Chef": "Franck Pelux",
 		"Ratings": "N/A",
-		"Price": "54.43",
+		"Price": "48.00",
 		"Link": "https://www.relaischateaux.com/us/france/crocodile-bas-rhin"
 	},
 	{
@@ -77,7 +77,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Glenn Viel",
 		"Ratings": "N/A",
-		"Price": "255.13",
+		"Price": "225.00",
 		"Link": "https://www.relaischateaux.com/us/france/baumaniere-hotel-spa-les-baux-de-provence"
 	},
 	{
@@ -86,7 +86,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Loic Le Bail",
 		"Ratings": "4.5",
-		"Price": "189.37",
+		"Price": "167.00",
 		"Link": "https://www.relaischateaux.com/us/france/brittany-finistere-roscoff"
 	},
 	{
@@ -95,7 +95,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Nicolas Rondelli",
 		"Ratings": "N/A",
-		"Price": "266.47",
+		"Price": "235.00",
 		"Link": "https://www.relaischateaux.com/us/france/antibes-alpes-maritimes-cap-d-antibes"
 	},
 	{
@@ -104,7 +104,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Julien Lefebvre",
 		"Ratings": "N/A",
-		"Price": "192.77",
+		"Price": "170.00",
 		"Link": "https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac"
 	},
 	{
@@ -113,7 +113,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Cyril Leclerc",
 		"Ratings": "4.5",
-		"Price": "221.12",
+		"Price": "195.00",
 		"Link": "https://www.relaischateaux.com/us/france/adomenil-meurthe-et-moselle-luneville"
 	},
 	{
@@ -122,7 +122,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jean-Alexandre Ouaratta",
 		"Ratings": "4.5",
-		"Price": "225.88",
+		"Price": "199.20",
 		"Link": "https://www.relaischateaux.com/us/france/bagnols-rhone-alpes"
 	},
 	{
@@ -131,7 +131,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Benjamin Collombat",
 		"Ratings": "4.5",
-		"Price": "243.79",
+		"Price": "215.00",
 		"Link": "https://www.relaischateaux.com/us/france/berne-var-lorgues"
 	},
 	{
@@ -140,7 +140,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Stéphane Andrieux",
 		"Ratings": "5",
-		"Price": "283.48",
+		"Price": "250.00",
 		"Link": "https://www.relaischateaux.com/us/france/treyne-lot-lacave"
 	},
 	{
@@ -149,7 +149,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Julien Poisot",
 		"Ratings": "4.5",
-		"Price": "204.11",
+		"Price": "180.00",
 		"Link": "https://www.relaischateaux.com/us/france/mercues-lot-mercues"
 	},
 	{
@@ -158,7 +158,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "N/A",
 		"Ratings": "4.5",
-		"Price": "216.58",
+		"Price": "191.00",
 		"Link": "https://www.relaischateaux.com/us/france/mirambeau-charente-maritime-mirambeau"
 	},
 	{
@@ -167,7 +167,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jimmy Coutel",
 		"Ratings": "4.5",
-		"Price": "276.68",
+		"Price": "244.00",
 		"Link": "https://www.relaischateaux.com/us/france/chateau-de-valmer-la-croix-valmer"
 	},
 	{
@@ -176,7 +176,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jérôme Schilling",
 		"Ratings": "4.5",
-		"Price": "443.93",
+		"Price": "391.50",
 		"Link": "https://www.relaischateaux.com/us/france/chateau-lafaurie-peyraguey-lalique-bommes"
 	},
 	{
@@ -185,7 +185,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Thibaut Gamba",
 		"Ratings": "4.5",
-		"Price": "192.77",
+		"Price": "170.00",
 		"Link": "https://www.relaischateaux.com/us/france/clarance-hotel-nord"
 	},
 	{
@@ -194,7 +194,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Philippe Deschamps",
 		"Ratings": "4.5",
-		"Price": "226.79",
+		"Price": "200.00",
 		"Link": "https://www.relaischateaux.com/us/france/auriac-aude-carcassonne"
 	},
 	{
@@ -203,7 +203,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Maxime Nouail",
 		"Ratings": "4.5",
-		"Price": "217.71",
+		"Price": "192.00",
 		"Link": "https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers"
 	},
 	{
@@ -212,7 +212,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Philippe Mille",
 		"Ratings": "4.5",
-		"Price": "430.89",
+		"Price": "380.00",
 		"Link": "https://www.relaischateaux.com/us/france/crayeres-marne-reims"
 	},
 	{
@@ -221,7 +221,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Emmanuel Renaut",
 		"Ratings": "N/A",
-		"Price": "487.59",
+		"Price": "430.00",
 		"Link": "https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
 	},
 	{
@@ -230,7 +230,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Georges Blanc",
 		"Ratings": "4.5",
-		"Price": "283.48",
+		"Price": "250.00",
 		"Link": "https://www.relaischateaux.com/us/france/blanc-ain-vonnas"
 	},
 	{
@@ -239,7 +239,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Damien Leveau",
 		"Ratings": "4.5",
-		"Price": "183.70",
+		"Price": "162.00",
 		"Link": "https://www.relaischateaux.com/us/france/albert-haute-savoie-chamonix-mont-blanc"
 	},
 	{
@@ -248,7 +248,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Ronan Kervarrec",
 		"Ratings": "4.5",
-		"Price": "317.50",
+		"Price": "280.00",
 		"Link": "https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion"
 	},
 	{
@@ -257,7 +257,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Christophe Schmitt",
 		"Ratings": "4.5",
-		"Price": "182.56",
+		"Price": "161.00",
 		"Link": "https://www.relaischateaux.com/us/france/ile-de-la-lagune-saint-cyprien"
 	},
 	{
@@ -266,7 +266,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Antoine Gras",
 		"Ratings": "4.5",
-		"Price": "368.53",
+		"Price": "325.00",
 		"Link": "https://www.relaischateaux.com/us/france/barmes-de-l-ours-savoie"
 	},
 	{
@@ -275,7 +275,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jean Sulpice",
 		"Ratings": "4.5",
-		"Price": "233.59",
+		"Price": "206.00",
 		"Link": "https://www.relaischateaux.com/us/france/bise-haute-savoie-talloires"
 	},
 	{
@@ -284,7 +284,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Laurent Petit",
 		"Ratings": "N/A",
-		"Price": "260.80",
+		"Price": "230.00",
 		"Link": "https://www.relaischateaux.com/us/france/clos-des-sens-haute-savoie"
 	},
 	{
@@ -302,7 +302,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Thierry Drapeau",
 		"Ratings": "4.5",
-		"Price": "589.64",
+		"Price": "520.00",
 		"Link": "https://www.relaischateaux.com/us/france/thierrydrapeau-vendee-saint-sulpice-le-verdon"
 	},
 	{
@@ -311,7 +311,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Christophe Bacquié",
 		"Ratings": "4.5",
-		"Price": "235.86",
+		"Price": "208.00",
 		"Link": "https://www.relaischateaux.com/us/france/castellet-var-le-castellet"
 	},
 	{
@@ -320,7 +320,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Édouard Loubet",
 		"Ratings": "N/A",
-		"Price": "112.26",
+		"Price": "99.00",
 		"Link": "https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence"
 	},
 	{
@@ -329,7 +329,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jany Gleize",
 		"Ratings": "4.5",
-		"Price": "179.16",
+		"Price": "158.00",
 		"Link": "https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
 	},
 	{
@@ -338,7 +338,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Gilles Dudognon",
 		"Ratings": "N/A",
-		"Price": "153.08",
+		"Price": "135.00",
 		"Link": "https://www.relaischateaux.com/us/france/chapelle-haute-vienne-nieul"
 	},
 	{
@@ -347,7 +347,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jean-Michel Lorain",
 		"Ratings": "4.5",
-		"Price": "362.86",
+		"Price": "320.00",
 		"Link": "https://www.relaischateaux.com/us/france/la-cote-saint-jacques-yonne-joigny"
 	},
 	{
@@ -356,7 +356,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Alexandre Gauthier",
 		"Ratings": "N/A",
-		"Price": "204.11",
+		"Price": "180.00",
 		"Link": "https://www.relaischateaux.com/us/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil"
 	},
 	{
@@ -374,7 +374,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Christophe Ducros",
 		"Ratings": "4.5",
-		"Price": "148.54",
+		"Price": "131.00",
 		"Link": "https://www.relaischateaux.com/us/france/maisonduzes-gard-uzes"
 	},
 	{
@@ -383,7 +383,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Patrick Henriroux",
 		"Ratings": "4.5",
-		"Price": "192.77",
+		"Price": "170.00",
 		"Link": "https://www.relaischateaux.com/us/france/pyramide-isere-vienne"
 	},
 	{
@@ -392,7 +392,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Fabien Mengus",
 		"Ratings": "4.5",
-		"Price": "198.44",
+		"Price": "175.00",
 		"Link": "https://www.relaischateaux.com/us/france/arnsbourg-moselle-baerenthal"
 	},
 	{
@@ -401,7 +401,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Alexandre Fabris",
 		"Ratings": "N/A",
-		"Price": "349.25",
+		"Price": "308.00",
 		"Link": "https://www.relaischateaux.com/us/france/signoria-corse-calvi"
 	},
 	{
@@ -410,7 +410,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Cédric Béchade",
 		"Ratings": "4.5",
-		"Price": "114.70",
+		"Price": "101.15",
 		"Link": "https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques"
 	},
 	{
@@ -419,7 +419,7 @@
 		"Type": "Restaurant",
 		"Chef": "Bruno Oger",
 		"Ratings": "N/A",
-		"Price": "77.11",
+		"Price": "68.00",
 		"Link": "https://www.relaischateaux.com/us/france/archange-alpes-maritimes"
 	},
 	{
@@ -428,7 +428,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Olivier Nasti",
 		"Ratings": "4.5",
-		"Price": "206.38",
+		"Price": "182.00",
 		"Link": "https://www.relaischateaux.com/us/france/le-chambard-haut-rhin-kaysersberg"
 	},
 	{
@@ -437,7 +437,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Marc Meurin",
 		"Ratings": "N/A",
-		"Price": "192.77",
+		"Price": "170.00",
 		"Link": "https://www.relaischateaux.com/us/france/chateaubeaulieu-pas-de-calais-busnes"
 	},
 	{
@@ -446,7 +446,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jérôme ROY",
 		"Ratings": "N/A",
-		"Price": "254.00",
+		"Price": "224.00",
 		"Link": "https://www.relaischateaux.com/us/france/minimes-alpes-de-haute-provence-mane"
 	},
 	{
@@ -455,7 +455,7 @@
 		"Type": "Restaurant",
 		"Chef": "Guy Martin",
 		"Ratings": "N/A",
-		"Price": "130.40",
+		"Price": "115.00",
 		"Link": "https://www.relaischateaux.com/us/france/vefour-paris"
 	},
 	{
@@ -464,7 +464,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Gérald Passedat",
 		"Ratings": "N/A",
-		"Price": "249.46",
+		"Price": "220.00",
 		"Link": "https://www.relaischateaux.com/us/france/passedat-bouches-du-rhone-marseille"
 	},
 	{
@@ -473,7 +473,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Xavier Mathieu",
 		"Ratings": "N/A",
-		"Price": "238.13",
+		"Price": "210.00",
 		"Link": "https://www.relaischateaux.com/us/france/phebus-vaucluse-gordes"
 	},
 	{
@@ -482,7 +482,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Marc Fontanne",
 		"Ratings": "4.5",
-		"Price": "213.18",
+		"Price": "188.00",
 		"Link": "https://www.relaischateaux.com/us/france/leprieure-gard-villeneuve-lez-avignon"
 	},
 	{
@@ -491,7 +491,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Patrick Bertron",
 		"Ratings": "4.5",
-		"Price": "112.26",
+		"Price": "99.00",
 		"Link": "https://www.relaischateaux.com/us/france/loiseau-cote-d-or-saulieu"
 	},
 	{
@@ -500,7 +500,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Nicolas Magie",
 		"Ratings": "4.5",
-		"Price": "198.44",
+		"Price": "175.00",
 		"Link": "https://www.relaischateaux.com/us/france/stjames-gironde-bouliac"
 	},
 	{
@@ -509,7 +509,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Didier Edon",
 		"Ratings": "N/A",
-		"Price": "187.10",
+		"Price": "165.00",
 		"Link": "https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon"
 	},
 	{
@@ -518,7 +518,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Rémy Giraud",
 		"Ratings": "4.5",
-		"Price": "258.54",
+		"Price": "228.00",
 		"Link": "https://www.relaischateaux.com/us/france/hauts-loire-loir-et-cher-onzain"
 	},
 	{
@@ -527,7 +527,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Michel Guérard",
 		"Ratings": "4.5",
-		"Price": "283.48",
+		"Price": "250.00",
 		"Link": "https://www.relaischateaux.com/us/france/guerard-landes-eugenie-les-bains"
 	},
 	{
@@ -545,7 +545,7 @@
 		"Type": "Restaurant",
 		"Chef": "David Bizet",
 		"Ratings": "N/A",
-		"Price": "102.05",
+		"Price": "90.00",
 		"Link": "https://www.relaischateaux.com/us/france/taillevent-paris"
 	},
 	{
@@ -554,7 +554,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Vincent Arnould",
 		"Ratings": "4.5",
-		"Price": "215.45",
+		"Price": "190.00",
 		"Link": "https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat"
 	},
 	{
@@ -563,7 +563,7 @@
 		"Type": "Restaurant",
 		"Chef": "Alain Montigny",
 		"Ratings": "N/A",
-		"Price": "78.24",
+		"Price": "69.00",
 		"Link": "https://www.relaischateaux.com/us/france/oasis-alpes-maritimes-la-napoule"
 	},
 	{
@@ -572,7 +572,7 @@
 		"Type": "Restaurant",
 		"Chef": "Julien Dumas",
 		"Ratings": "N/A",
-		"Price": "100.92",
+		"Price": "89.00",
 		"Link": "https://www.relaischateaux.com/us/france/lucascarton-ile-de-france-paris"
 	},
 	{
@@ -581,7 +581,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jacques Decoret",
 		"Ratings": "N/A",
-		"Price": "133.59",
+		"Price": "117.81",
 		"Link": "https://www.relaischateaux.com/us/france/decoret-allier-vichy"
 	},
 	{
@@ -590,7 +590,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Frédéric Doucet",
 		"Ratings": "4.5",
-		"Price": "147.41",
+		"Price": "130.00",
 		"Link": "https://www.relaischateaux.com/us/france/hotel-laposte-doucet-saone-et-loire"
 	},
 	{
@@ -599,7 +599,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Eric Pras",
 		"Ratings": "N/A",
-		"Price": "204.11",
+		"Price": "180.00",
 		"Link": "https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny"
 	},
 	{
@@ -608,7 +608,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Anne-Sophie Pic",
 		"Ratings": "4.5",
-		"Price": "269.88",
+		"Price": "238.00",
 		"Link": "https://www.relaischateaux.com/us/france/pic-drome-valence"
 	},
 	{
@@ -617,7 +617,7 @@
 		"Type": "Hotel",
 		"Chef": "N/A",
 		"Ratings": "4.5",
-		"Price": "876.64",
+		"Price": "773.10",
 		"Link": "https://www.relaischateaux.com/us/france/marquis-faubourg-saint-honore-ile-de-france-paris"
 	},
 	{
@@ -626,7 +626,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Paolo Sari",
 		"Ratings": "N/A",
-		"Price": "247.20",
+		"Price": "218.00",
 		"Link": "https://www.relaischateaux.com/us/france/montecarlo-alpes-maritimes-roquebrune-cap-martin"
 	},
 	{
@@ -635,7 +635,7 @@
 		"Type": "Restaurant",
 		"Chef": "Shinichi Sato",
 		"Ratings": "N/A",
-		"Price": "68.04",
+		"Price": "60.00",
 		"Link": "https://www.relaischateaux.com/us/france/passage53-paris"
 	},
 	{
@@ -644,7 +644,7 @@
 		"Type": "Restaurant",
 		"Chef": "Pierre Gagnaire",
 		"Ratings": "N/A",
-		"Price": "170.09",
+		"Price": "150.00",
 		"Link": "https://www.relaischateaux.com/us/france/gagnaire-paris"
 	},
 	{
@@ -653,7 +653,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Jean Coussau",
 		"Ratings": "N/A",
-		"Price": "204.11",
+		"Price": "180.00",
 		"Link": "https://www.relaischateaux.com/us/france/poste-landes-magescq"
 	},
 	{
@@ -662,7 +662,7 @@
 		"Type": "Restaurant",
 		"Chef": "Michel Kayser",
 		"Ratings": "N/A",
-		"Price": "65.77",
+		"Price": "58.00",
 		"Link": "https://www.relaischateaux.com/us/france/alexandre-gard-garons"
 	},
 	{
@@ -671,7 +671,7 @@
 		"Type": "Restaurant",
 		"Chef": "Christopher Coutanceau",
 		"Ratings": "N/A",
-		"Price": "79.38",
+		"Price": "70.00",
 		"Link": "https://www.relaischateaux.com/us/france/coutanceau-charente-maritime-la-rochelle"
 	},
 	{
@@ -680,7 +680,7 @@
 		"Type": "Restaurant",
 		"Chef": "Gilles Tournadre",
 		"Ratings": "N/A",
-		"Price": "51.03",
+		"Price": "45.00",
 		"Link": "https://www.relaischateaux.com/us/france/gill-seine-maritime-rouen"
 	},
 	{
@@ -689,7 +689,7 @@
 		"Type": "Restaurant",
 		"Chef": "N/A",
 		"Ratings": "N/A",
-		"Price": "48.76",
+		"Price": "43.00",
 		"Link": "https://www.relaischateaux.com/us/france/restaurant-greuze-tournus"
 	},
 	{
@@ -698,7 +698,7 @@
 		"Type": "Restaurant",
 		"Chef": "Guy Lassausaie",
 		"Ratings": "N/A",
-		"Price": "85.04",
+		"Price": "75.00",
 		"Link": "https://www.relaischateaux.com/us/france/lassausaie-rhone-alpes-chasselay"
 	},
 	{
@@ -707,7 +707,7 @@
 		"Type": "Restaurant",
 		"Chef": "Mauro Colagreco",
 		"Ratings": "N/A",
-		"Price": "181.43",
+		"Price": "160.00",
 		"Link": "https://www.relaischateaux.com/us/france/mirazur-alpes-maritimes-menton"
 	},
 	{
@@ -725,7 +725,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Michel et César Troisgros",
 		"Ratings": "N/A",
-		"Price": "453.57",
+		"Price": "400.00",
 		"Link": "https://www.relaischateaux.com/us/france/troisgros-loire-ouches"
 	},
 	{
@@ -734,7 +734,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "David Delsart",
 		"Ratings": "4.5",
-		"Price": "221.12",
+		"Price": "195.00",
 		"Link": "https://www.relaischateaux.com/us/france/florentine-rhone-lyon"
 	},
 	{
@@ -743,7 +743,7 @@
 		"Type": "Hotel + Restaurant",
 		"Chef": "Yoann Conte",
 		"Ratings": "5",
-		"Price": "294.82",
+		"Price": "260.00",
 		"Link": "https://www.relaischateaux.com/us/france/yoannconte-haute-savoie-veyrier-du-lac"
 	}
 ]

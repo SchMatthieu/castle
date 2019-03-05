@@ -1,0 +1,14 @@
+[
+	{ "RestaurantName": "Restaurant de Tourrel", "Chef": "Jérémy Scalia", "Stars": 1 },
+	{ "RestaurantName": "L'Orchidée", "Chef": "Chatchai Klanklong", "Stars": 1 },
+	{ "RestaurantName": "L'Aspérule", "Chef": "Keigo Kimura", "Stars": 1 },
+	{ "RestaurantName": "Sarkara", "Chef": "Sébastien Vauxion", "Stars": 1 },
+	{ "RestaurantName": "NESO", "Chef": "Guillaume Sanchez", "Stars": 1 },
+	{ "RestaurantName": "Restaurant De Lauzun", "Chef": "N/A", "Stars": 1 },
+	{ "RestaurantName": "The Marcel", "Chef": "Fabien Fage", "Stars": 1 },
+	{ "RestaurantName": "La Poule au Pot", "Chef": "N/A", "Stars": 1 },
+	{ "RestaurantName": "Saisons", "Chef": "Julien Diaz", "Stars": 1 },
+	{ "RestaurantName": "Nature", "Chef": "Nicolas Gautier", "Stars": 1 },
+	{ "RestaurantName": "Äponem - Auberge du Presbytère", "Chef": "Amélie Darvas", "Stars": 1 },
+	{ "RestaurantName": "La Merise", "Chef": "Cédric Deckert", "Stars": 1 }
+]

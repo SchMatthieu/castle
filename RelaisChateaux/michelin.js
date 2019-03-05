@@ -1,59 +1,64 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-var JsonFile = [];
+(async function scrapingMichelin2() {
+	const extractRestaurants = async (url) => {
+		//Scrape the data
+		const page = await browser.newPage();
+		await page.goto(url);
+		console.log('Current url: ' + url);
 
-(async function main() {
-    try {
-        const browser = await puppeteer.launch({ headless: false });
-        const page = await browser.newPage();
+		//await page.waitForSelector('ul.poi-search-result');
+		const restaurants = await page.$$('ul.poi-search-result > li');
+		const restaurantsOnPage = [];
 
-        await page.setViewport({ width: 1440, height: 752 });
-        await page.goto('https://restaurant.michelin.fr/magazine/les-restaurants-etoiles-du-guide-michelin-2018');
+		for (let i = 0; i < restaurants.length; i++) {
+			await page.goto(url);
+			//await page.waitForSelector('ul.poi-search-result');
 
-        const restaurants = await page.$$('p ');
+			const restaurants = await page.$$('ul.poi-search-result > li');
+			const restaurant = restaurants[i];
 
-        for (const restaurant of restaurants) {
-            if(await restaurant.$('strong')!==null)
-            {
-                const name = await restaurant.$eval('strong', span => span.innerText);
-                console.log('{"RestaurantName":"' + name + '"}');
-                JsonFile.push({"RestaurantName" : name})
-            }
-        }
-        /*
-        await page.goto('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin');
+            const restaurantName = await restaurant.$eval('.poi_card-display-title', (title) => title.innerText);
+            var stars = 'N/A';
+			if(await restaurant.$('span.icon-cotation1etoile') != null) stars = 1;
+			if(await restaurant.$('span.icon-cotation2etoiles') != null) stars = 2;
+			if(await restaurant.$('span.icon-cotation3etoiles') != null) stars = 3;
 
-        const restaurants = await page.$$('.ds-1col');
+			const imgLink = await restaurant.$('.poi_card-picture');
+			imgLink.click();
 
-        for (const restaurant of restaurants) {
-            const name = await restaurant.$eval('.poi_card-display-title', div => div.innerText);
-            console.log('{"RestaurantName":"' + name + '"}');
-            JsonFile.push({"RestaurantName" : name})
-        }
+			await page.waitForNavigation({ waitUntil: 'domcontentloaded' });
+			const chef = await page.evaluate(() => {
+				if (document.querySelector('div.field.field--name-field-chef.field--type-text.field--label-above > div.field__items > div.field__item.even') != null) {
+					return document.querySelector('div.field.field--name-field-chef.field--type-text.field--label-above > div.field__items > div.field__item.even').innerText;
+				} else {
+					return 'N/A';
+				}
+			});
 
-        for(var i = 2; i < 35; i++){
-            //await page.waitForSelector('.mr-pager-item.last');
-            //await page.click('.mr-pager-item.last');
-            await page.goto('https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/page-' + i)
+			restaurantsOnPage.push({ RestaurantName: restaurantName, Chef: chef, Stars: stars });
+		}
+		await page.close();
 
-            await page.waitFor(2000);
-            await page.waitForSelector('.ds-1col');
+		//Recursively scrape the next page
+		if (restaurantsOnPage.length < 1) {
+			console.log('Terminate..');
+			return restaurantsOnPage;
+		} else {
+			const nextPageNumber = parseInt(url.match(/page-(\d+)$/)[1], 10) + 1;
+			const nextUrl = `https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/page-${nextPageNumber}`;
+			return restaurantsOnPage.concat(await extractRestaurants(nextUrl));
+		}
+	};
 
-            const restaurants = await page.$$('.ds-1col');
+	const browser = await puppeteer.launch({ headless: true });
+	const firstUrl =
+		'https://restaurant.michelin.fr/restaurants/france/restaurants-1-etoile-michelin/restaurants-2-etoiles-michelin/restaurants-3-etoiles-michelin/page-1';
+	const starredRestaurants = await extractRestaurants(firstUrl);
 
-            for (const restaurant of restaurants) {
-                const name = await restaurant.$eval('.poi_card-display-title', div => div.innerText);
-                console.log('{"RestaurantName":"' + name + '"}');
-                JsonFile.push({"RestaurantName" : name})
-            }
-        }
-        */
-        
-        fs.writeFileSync("StarredRestaurantList.json", JSON.stringify(JsonFile));
-        console.log('JSON complete !');
-    }
-    catch(e){
-        console.log(e);
-    }
+	fs.writeFileSync('StarredRestaurantList.json', JSON.stringify(starredRestaurants));
+	console.log('JSON complete !');
+
+	await browser.close();
 })();
