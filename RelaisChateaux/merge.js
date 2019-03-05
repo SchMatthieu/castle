@@ -10,7 +10,14 @@ var JsonFile = [];
         for (var i = 0; i < properties.length; i++) {
             for (var j = 0; j < starredRestaurant.length; j++) {
                 if (properties[i].Chef.toLowerCase() === starredRestaurant[j].Chef.toLowerCase()) {
-                    JsonFile.push(properties[i]);
+                    JsonFile.push({
+                        PropertieName: properties[i].PropertieName,
+                        Locality: properties[i].Locality,
+                        Price: properties[i].Price,
+                        Stars: starredRestaurant[j].Stars,
+                        Ratings: properties[i].Ratings,
+                        Link: properties[i].Link
+                    });
                     break;
                 }
             }
