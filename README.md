@@ -14,7 +14,6 @@ My Project: https://schmatthieu-castle-webapp.netlify.com
 - [🎯 Objectives](#-objectives)
 - [🏃‍♀️ Steps to do](#%E2%80%8D-steps-to-do)
   - [Stack](#stack)
-- [👩‍💻 Just tell me what to do](#%E2%80%8D-just-tell-me-what-to-do)
 - [🏃‍♀️ Example of Steps to do](#%E2%80%8D-example-of-steps-to-do)
   - [Investigation](#investigation)
     - [Hotels from Relais & Châteaux](#hotels-from-relais--ch%C3%A2teaux)
@@ -24,8 +23,6 @@ My Project: https://schmatthieu-castle-webapp.netlify.com
     - [require('castle')](#requirecastle)
     - [require('michelin')](#requiremichelin)
   - [Client-side with React](#client-side-with-react)
-  - [Notification (bonus)](#notification-bonus)
-- [Don't forget](#dont-forget)
 - [Licence](#licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -140,6 +137,7 @@ Next features:
   * filtering by name
   * sorting by stars
   * sorting by price
+  * sorting by ratings
 
 ## Licence
 
