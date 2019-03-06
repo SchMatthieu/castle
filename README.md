@@ -40,48 +40,6 @@ My Project: https://schmatthieu-castle-webapp.netlify.com
 
 Create a connection between [relaischateaux.com](https://www.relaischateaux.com), [restaurant.michelin.fr](https://restaurant.michelin.fr/) and the end-user.
 
-### Stack
-
-```
-Node.js + React + Material Design (mdl, bootstrap, foundation...) + ES6 [+ docker + redis ...]
-```
-
-## 👩‍💻 Just tell me what to do
-
-1. Fork the project via `github`
-
-![fork](./fork.png)
-
-1. Clone your forked repository project `https://github.com/YOUR_USERNAME/castle`
-
-```sh
-❯ cd /path/to/workspace
-❯ git clone git@github.com:YOUR_USERNAME/castle.git
-```
-
-1. **Do things**
-
-1. commit your different modifications:
-
-```sh
-❯ cd /path/to/workspace/castle
-❯ git add -A && git commit -m "feat(michelin): get list of starred restaurants"
-```
-
-([why following a commit message convention?](https://www.conventionalcommits.org)
-
-1. Don't forget to commit early, commit often and push often
-
-```sh
-❯ git push origin master
-```
-
-**Note**: if you catch an error about authentication, [add your ssh to your github profile](https://help.github.com/articles/connecting-to-github-with-ssh/).
-
-1. If you need some helps on git commands, read [git - the simple guide](http://rogerdudler.github.io/git-guide/)
-
-## 🏃‍♀️ Example of Steps to do
-
 ### Investigation
 
 #### Properties from Relais & Châteaux
@@ -182,19 +140,6 @@ Next features:
   * filtering by name
   * sorting by stars
   * sorting by price
-  * sorting by distance
-
-3. Bonus: Display on a map only Relais & Châteaux with starred restaurants.
-
-### Notification (bonus)
-
-Some things to do:
-
-1. Notify me (discord or slack) a new best rate price for any Relais & Châteaux with starred restaurant.
-
-## Don't forget
-
-**Focus on codebase and UX/UI**
 
 ## Licence
 
